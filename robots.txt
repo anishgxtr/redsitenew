@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://redwhite.media/sitemap.xml
